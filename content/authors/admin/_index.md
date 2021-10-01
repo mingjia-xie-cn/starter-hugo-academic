@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Mingjia Xie is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. Candidate at the Department of Econometrics and Operations Research in School of Economics and Management (TiSEM), Tilburg University, The Netherlands.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am supervised by Professor Martin Salm and Professor Bettina Silflinger. My current work includes examining the heterogeneous treatment effects in the field of education economics and identifying the causal mechanism with a semi-parametric moedel in the field of health economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
