@@ -8,7 +8,7 @@ authors:
   - Bettina M Siflinger
   - Mingjia Xie
 doi: http://dx.doi.org/10.2139/ssrn.3824793
-abstract: “People experience multiple changes in their lives after retirement
+abstract: People experience multiple changes in their lives after retirement
   which can affect their mental health. In this paper, we examine the mediating
   impact of grandparental childcare in the effect of retirement on mental health
   among elderly women in Europe. We apply a semi-parametric estimation strategy
@@ -22,11 +22,12 @@ abstract: “People experience multiple changes in their lives after retirement
   of public childcare and find that the mediating effect unfolds its full
   compensating strength in countries in which grandparental childcare is
   supplemental to public childcare. Our results have important implications for
-  designing old-age social policies.”
+  designing old-age social policies.
 draft: false
 featured: true
 image:
   filename: ""
   focal_point: ""
   preview_only: false
+date:""
 ---
