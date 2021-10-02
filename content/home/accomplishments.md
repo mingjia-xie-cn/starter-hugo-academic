@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: ""
+  date_start: "2019-12-01"
   description: 'Research project coauthored with Dr. Martin Salm and Dr. Bettina Siflinger. We semi-parametrically identify the causal mechanism through which retirement affects mental health by focusing on the retirement-induced grandparental care provision. Presented research at several academic conferences and presentations. We have submitted our paper to International Economic Review.'
   organization: ""
   organization_url: ""
