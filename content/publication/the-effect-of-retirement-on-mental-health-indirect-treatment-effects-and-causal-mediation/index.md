@@ -8,6 +8,7 @@ authors:
   - Bettina M Siflinger
   - Mingjia Xie
 doi: http://dx.doi.org/10.2139/ssrn.3824793
+publication: CentER Discussion Paper Series
 abstract: People experience multiple changes in their lives after retirement
   which can affect their mental health. In this paper, we examine the mediating
   impact of grandparental childcare in the effect of retirement on mental health
