@@ -29,5 +29,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: ''
+date: ""
 ---
