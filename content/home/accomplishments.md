@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: 'Research project coauthored with Dr. Martin Salm and Dr. Bettina Siflinger. We semi-parametrically identify the causal mechanism through which retirement affects mental health by focusing on the retirement-induced grandparental care provision. Presented research at several academic conferences and presentations. We have submitted our paper to International Economic Review.'
-  organization: Coursera
+  # organization: Coursera
   organization_url: https://www.coursera.org
   title: 'The Effect of Retirement on Mental Health: Indirect Treatment Effects and Causal Mediation'
   url: ""
