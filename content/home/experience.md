@@ -35,14 +35,18 @@ experience:
         * Teaching 'Business Analysis' and 'Statistics and Data Management' to undergraduates
         * Involved the assessment of work, grading assignment and exam
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Tutor
+    company: Tilburg University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: ''
+    date_start: '2021-10-30'
+    date_end: '2022-06-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching 'Statistics and Data Management' and 'Mathematics' to undergraduates in class of 20-40 students weekly
+        * Involved the assessment of work, grading assignment and exam
 
 design:
   columns: '2'
