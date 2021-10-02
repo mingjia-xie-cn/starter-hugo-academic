@@ -33,11 +33,28 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-07-01"
+  date_start: "2020-12-01"
   description: "Research project as job market paper. I examine the heterogeneity of return to education in the perspective of both the observed and unobserved resistance to educational attainment in China. I find reverse selection on gain, i.e., individuals who are less likely to go to high school or above have higher return to education, which can be explained by the worse outcome without educational attainment. Present research at several seminars."
   organization: ""
   organization_url: ""
   title: 'Who Benefit Most/Least from Education? Evidence from China'
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-07-01"
+  description: "Research project coauthored with Dr. Ting Yin, Dr. Yi Zhang, and Prof. Takashi Oshio. We explore the causal relation between the number of children and parent's health utilization. We find that having more children leads to more formal and informal healthcare utilization. Further mechanism analysis shows that the
+increased healthcare use is driven by (a) the deteriorating physical and mental health Meanwhile and (b) more financial support from children. Presented research at several academic conferences through oral presentations."
+  organization: ""
+  organization_url: ""
+  title: 'Impact of Fertility on the Elderly's Healthcare Utilization'
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-02-01"
+  description: "Master dissertation supervised by Dr. Martin Salm and Dr. Bettina Siflinger. We examine the roles of cognitive ability, non-cognitive ability, and health at different developmental stages in explaining educational developmental gaps of children with different backgrounds in their mothers' educational attainment."
+  organization: ""
+  organization_url: ""
+  title: 'The role of cognitive ability, non cognitive ability and health in explaining educational developmental gaps by mother's education'
   url: ""
 
 design:
