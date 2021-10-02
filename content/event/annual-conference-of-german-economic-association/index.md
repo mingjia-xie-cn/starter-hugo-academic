@@ -1,5 +1,5 @@
 ---
-title: Annual conference of German Economic Association
+title: EEA-ESEM conference
 abstract: " Presenter"
 location: Virtual
 date: 2021-09-27T06:33:32.878Z
