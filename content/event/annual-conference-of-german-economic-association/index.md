@@ -1,9 +1,9 @@
 ---
 title: Annual conference of German Economic Association
-abstract: " "
+abstract: " Presenter"
 location: Virtual
-date: 2021-09-28T06:33:32.878Z
-date_end: 2021-09-27T16:00:00.000Z
+date: 2021-09-27T06:33:32.878Z
+date_end: 2021-09-28T16:00:00.000Z
 all_day: true
 event: VFS
 event_url: https://express.converia.de/frontend/index.php?sub=600
