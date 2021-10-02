@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-10-30'
-    date_end: '2022-06-30'
+    date_start: '2018-9-1'
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
         
