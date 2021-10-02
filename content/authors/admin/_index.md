@@ -1,7 +1,7 @@
 ---
 title: Mingjia Xie
 role: PhD candidate in Economics
-avatar_filename: 微信图片_20211002150739.jpg
+avatar_filename: mingjiaxie.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
