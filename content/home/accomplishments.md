@@ -31,13 +31,13 @@ item:
   organization_url: ""
   title: 'The Effect of Retirement on Mental Health: Indirect Treatment Effects and Causal Mediation'
   url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-07-01"
+  description: "Research project as job market paper. I examine the heterogeneity of return to education in the perspective of both the observed and unobserved resistance to educational attainment in China. I find reverse selection on gain, i.e., individuals who are less likely to go to high school or above have higher return to education, which can be explained by the worse outcome without educational attainment. Present research at several seminars."
+  organization: ""
+  organization_url: ""
+  title: 'Who Benefit Most/Least from Education? Evidence from China'
   url: ""
 
 design:
