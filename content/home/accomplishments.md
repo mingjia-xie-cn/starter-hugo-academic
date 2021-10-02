@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: " "
+  date_start: "2020-12-01"
   description: "Research project as job market paper. I examine the heterogeneity of return to education in the perspective of both the observed and unobserved resistance to educational attainment in China. I find reverse selection on gain, i.e., individuals who are less likely to go to high school or above have higher return to education, which can be explained by the worse outcome without educational attainment. Present research at several seminars."
   organization: ""
   organization_url: ""
