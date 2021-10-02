@@ -35,4 +35,4 @@ I am a Ph.D. Candidate at the Department of Econometrics and Operations Research
 
 I am supervised by Professor Martin Salm and Professor Bettina Silflinger. My current work includes examining the heterogeneous treatment effects in the field of education economics and identifying the causal mechanism with a semi-parametric moedel in the field of health economics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "www.baidu.com" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://1drv.ms/b/s!Ao06LZhEEqrfgZlUttdhqfuqVPreIA?e=aZsxgD).
