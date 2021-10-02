@@ -58,5 +58,5 @@ increased healthcare use is driven by (a) the deteriorating physical and mental 
   url: ""
 
 design:
-  columns: '2' 
+  columns: '4' 
 ---
