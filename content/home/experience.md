@@ -27,14 +27,13 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-10-30'
+    date_end: '2022-06-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching 'Business Analysis' and 'Statistics and Data Management' to undergraduates
+        * Involved the assessment of work, grading assignment and exam
         
   - title: Professor of Semiconductor Physics
     company: University X
