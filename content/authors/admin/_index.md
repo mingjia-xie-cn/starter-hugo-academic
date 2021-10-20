@@ -31,8 +31,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. Candidate at the Department of Econometrics and Operations Research in School of Economics and Management (TiSEM), Tilburg University, The Netherlands.
+I am a Ph.D. Candidate at the Department of Econometrics and Operations Research in School of Economics and Management (TiSEM), Tilburg University, The Netherlands. I am particularly interested in the fields of health economics, education economics, and applied microeconometrics. I am supervised by Dr. [Martin Salm](https://www.tilburguniversity.edu/staff/m-salm) and Dr. [Bettina Siflinger](https://sites.google.com/site/bettinasiflinger/).
 
-I am supervised by Dr. Martin Salm and Dr. Bettina Siflinger. My current work includes examining the heterogeneous treatment effects in the field of education economics and identifying the causal mechanism with a semi-parametric moedel in the field of health economics.
-
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://1drv.ms/b/s!Ao06LZhEEqrfgZlUttdhqfuqVPreIA?e=aZsxgD).
+{{< icon name="download" pack="fas" >}} Download my [CV](https://1drv.ms/b/s!Ao06LZhEEqrfgZxXFRxU2x3idSi0gg?e=9JFQ8C).
