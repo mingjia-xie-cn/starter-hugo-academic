@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Jin Zhang
-  - Mingjia Xie
+  - Mingjia Xi
 doi: https://doi.org/10.1016/j.chieco.2016.02.002
 publication: China Economic Review
 abstract: "The oil product pricing mechanism is a regulation system that was
