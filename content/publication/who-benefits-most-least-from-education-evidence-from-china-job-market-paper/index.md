@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "3"
 authors:
-  - Mingjia Xie
+  - Mingjia Xi
 abstract: I examine heterogeneous returns to education attainment (high school
   degree or above) in China by exploiting the variation in the educational
   attainment caused by a reform which increases the compulsory education
