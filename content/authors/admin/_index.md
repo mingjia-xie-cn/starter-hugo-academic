@@ -31,7 +31,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. Candidate at the Department of Econometrics and Operations Research in School of Economics and Management (TiSEM), Tilburg University, The Netherlands. 
+I am a Ph.D. Candidate at the Department of Econometrics and Operations Research in the Tilburg School of Economics and Management (TiSEM), Tilburg University, The Netherlands. 
 
 I am particularly interested in the fields of health economics, education economics, and applied microeconometrics. My current works include the heterogeneous return to education, mediation analysis of the health effect of retirement, and the effect of fertility on health utilization. I am supervised by Dr. [Martin Salm](https://www.tilburguniversity.edu/staff/m-salm) and Dr. [Bettina Siflinger](https://sites.google.com/site/bettinasiflinger/).
 
