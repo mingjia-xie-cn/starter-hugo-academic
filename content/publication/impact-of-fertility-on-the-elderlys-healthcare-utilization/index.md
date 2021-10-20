@@ -3,7 +3,7 @@ title: Impact of Fertility on the Elderly's Healthcare Utilization
 publication_types:
   - "3"
 authors:
-  - Mingjia Xie
+  - Mingjia Xi
   - Ting Yin
   - Yi Zhang
   - Takashi Oshio
