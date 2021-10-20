@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Martin Salm
   - Bettina M Siflinger
-  - Mingjia Xie
+  - Mingjia Xi
 doi: http://dx.doi.org/10.2139/ssrn.3824793
 publication: CentER Discussion Paper Series
 abstract: People experience multiple changes in their lives after retirement
