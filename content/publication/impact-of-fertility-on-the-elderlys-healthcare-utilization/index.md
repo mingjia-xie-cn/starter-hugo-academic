@@ -1,14 +1,13 @@
 ---
-title: "The Effect of Retirement on Mental Health: Indirect Treatment Effects
-  and Causal Mediation"
+title: "The Hidden Cost of Having More Children: The Impact of Fertility on the Elderly's Healthcare Utilization"
 publication_types:
   - "1"
 authors:
-  - Martin Salm
-  - Bettina M Siflinger
   - Mingjia Xie
-doi: http://dx.doi.org/10.2139/ssrn.3824793
-publication: CentER Discussion Paper Series
+  - Yin Ting
+  - Yi Zhang
+  - Oshio Takashi
+publication: RIETI Discussion Paper Series
 abstract: People experience multiple changes in their lives after retirement
   which can affect their mental health. In this paper, we examine the mediating
   impact of grandparental childcare in the effect of retirement on mental health
