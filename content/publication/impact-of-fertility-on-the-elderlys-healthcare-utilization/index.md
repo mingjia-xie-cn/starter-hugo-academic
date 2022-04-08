@@ -8,7 +8,7 @@ authors:
   - Yi Zhang
   - Oshio Takashi
 publication: RIETI Discussion Paper Series
-abstract: Declining fertility and increasing health expenditure associated with aging populations pose great challenges to public finance globally.
+abstract: Declining fertility and increasing health expenditure associated with aging populations pose great challenges to public finance globally. This paper studies the hidden cost of fertility by analyzing the causal effect of fertility on the elderly's healthcare utilization. We use the instrumental variable approach to account for the potential endogeneity in the fertility choice, exploiting the exogenous variations in fertility induced by the "1.5-Child Policy" in rural China. 
 draft: false
 featured: true
 image:
