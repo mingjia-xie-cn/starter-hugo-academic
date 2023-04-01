@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Who Benefits Most from Education? Evidence from China"
 authors:
 - admin
+- Yi Zhang
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We examine heterogeneous returns to post-compulsory education attainment (high school degree or above) in China by exploiting the variation in the educational attainment caused by a reform that introduces compulsory education with different implementation dates across provinces. Using data from China Household Finance Survey (CHFS), I find that individuals who are less likely to have post-compulsory education have higher returns to education. This finding contradicts the common conclusion on post-compulsory education that individuals select them into education based on gains. One explanation for this pattern is that children who are less likely to be enrolled in the education system have more disadvantaged backgrounds and lower wages without educational attainment. Education acts as an equalizer that leads to more homogeneous wages, resulting in larger returns for children who are less likely to be reached by post-compulsory education.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
