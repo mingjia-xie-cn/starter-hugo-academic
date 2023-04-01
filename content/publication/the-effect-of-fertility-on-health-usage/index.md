@@ -1,13 +1,15 @@
 ---
-title: "Who Benefits Most from Education? Evidence from China"
+title: "A Mixed Blessing? The Impact of Fertility on the Elderly's Healthcare Utilization"
 authors:
 - admin
+- Yin Ting
 - Yi Zhang
-date: "2019-04-07T00:00:00Z"
+- Oshio Takashi
+date: "2023-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +21,7 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: We examine heterogeneous returns to post-compulsory education attainment (high school degree or above) in China by exploiting the variation in the educational attainment caused by a reform that introduces compulsory education with different implementation dates across provinces. Using data from China Household Finance Survey (CHFS), I find that individuals who are less likely to have post-compulsory education have higher returns to education. This finding contradicts the common conclusion on post-compulsory education that individuals select them into education based on gains. One explanation for this pattern is that children who are less likely to be enrolled in the education system have more disadvantaged backgrounds and lower wages without educational attainment. Education acts as an equalizer that leads to more homogeneous wages, resulting in larger returns for children who are less likely to be reached by post-compulsory education.
+abstract: This paper studies the causal effect of having additional children on the elderly’s healthcare utilization using data from rural China. Overall, having more children increases the probability and out-of-pocket expenditures of using formal and informal healthcare, and the probability of forgoing necessary inpatient care. These results can be explained by deteriorating health that drives up the demand for healthcare, and increasing financial and social supports from children which facilitate healthcare use. The increased health costs from having more children are borne disproportionately by women and lower educated parents who have limited economic resources and less generous health insurance. On the other hand, though fertility imposes a heavier financial burden of medical care on the household, parents are more satisfied with the parent-child relationship, and more confident in their life-expectancy conditional on health status. 
 
 # Summary. An optional shortened abstract.
 summary:
@@ -28,7 +30,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://1drv.ms/b/s!Ao06LZhEEqrfgtp68iZtqra4Ml1hHA?e=QsEgN8
+url_pdf:
 url_code: 
 url_dataset: 
 url_poster: 
