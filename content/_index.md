@@ -27,7 +27,7 @@ sections:
         - title: Assistant Professor
           company: Liaoning University
           company_url: ''
-          company_logo: org-gc
+          company_logo: lnu
           location: Liaoning
           date_start: '2022-03-09'
           date_end: ''
@@ -47,7 +47,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.ier.hit-u.ac.jp/kyodo-riyou/English/about/index.html
+        - certificate_url:
           date_end: ''
           date_start: '2023-03-01'
           description: ''
