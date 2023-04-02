@@ -35,6 +35,17 @@ sections:
           description:
     design:
       columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Research Papers
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: accomplishments
     id: grant
     content:
@@ -58,17 +69,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Research Papers
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: collection
     id: talks
     content:
