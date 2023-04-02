@@ -65,16 +65,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Research Papers
-      filters:
-        folders:
-          - publication
         exclude_featured: true
     design:
       columns: '2'
@@ -105,14 +95,6 @@ sections:
       directions: Room 216, Li Anmin Insititute of Economic Research
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
